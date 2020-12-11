@@ -1,0 +1,1 @@
+QTags.addButton( 'wporg_paragraph', 'U', '<u>', '</u>', 'u', 'Paragraph tag', 1 );
